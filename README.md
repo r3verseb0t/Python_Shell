@@ -1,6 +1,7 @@
 # Python_Shell
 Python Reverse/Bind shell 
 
+Worked on Python3 
 
 1) Reverse_Shell
 
